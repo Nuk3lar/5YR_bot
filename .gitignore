@@ -1,0 +1,4 @@
+config/secretkeys.json
+logs/output.cfg
+*.cpython-36.pyc
+output.log

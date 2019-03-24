@@ -1,0 +1,22 @@
+{ 
+
+"colors": {
+    "embedcolorlight" : "0xF3CD93",
+    "embedcolordark" : "0xB68E6A",
+    "errorcolor" : "0xb20000" },
+
+"admins" : {
+    "Nukelar#2781" : 201422669889929216,
+    "Philosophy#6015" : 446047536864690207,
+    "JRB#1343" : 284018524991782912,
+    "KingLaceyTheThird#0379" : 376349181687889921 },
+
+"ranks" : {
+    "ground" : ["Recruit", "Private", "Lance Corporal", "Corporal", "Sergeant", "Lieutenant", "Captain"],
+    "air" : ["Cadet", "Aircraftman", "Senior Aircraftman", "Captain"] },
+
+"allowed_channels" : [454666331430846476],
+
+"parts" : ["lib.events"]
+
+} 
